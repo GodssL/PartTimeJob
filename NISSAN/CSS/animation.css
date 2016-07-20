@@ -1,0 +1,4 @@
+@keyframes box {
+    0% {background-size: 100%;}
+    100% {background-size: 600%; display: none;}
+}
